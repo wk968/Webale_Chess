@@ -1,0 +1,180 @@
+Project documentation
+<---- javadoc command: ---->
+D:\Might uninstall\jdk\bin\javadoc.exe
+-sourcepath
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub
+-source
+11
+-classpath
+D:\Might uninstall\lib\bluejcore.jar;D:\Might uninstall\lib\junit-4.11.jar;D:\Might uninstall\lib\hamcrest-core-1.3.jar;D:\Might uninstall\lib\lang-stride.jar;D:\Might uninstall\lib\javafx\lib\javafx.base.jar;D:\Might uninstall\lib\javafx\lib\javafx.controls.jar;D:\Might uninstall\lib\javafx\lib\javafx.fxml.jar;D:\Might uninstall\lib\javafx\lib\javafx.graphics.jar;D:\Might uninstall\lib\javafx\lib\javafx.media.jar;D:\Might uninstall\lib\javafx\lib\javafx.properties.jar;D:\Might uninstall\lib\javafx\lib\javafx.swing.jar;D:\Might uninstall\lib\javafx\lib\javafx.web.jar;D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub
+-d
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-doctitle
+Sub
+-windowtitle
+Sub
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-link
+https://docs.oracle.com/en/java/javase/11/docs/api/
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub/Arrow.java
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub/Chess.java
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub/GameScreen.java
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub/Move.java
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub/GameGUI.java
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub/GameBoard.java
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub/Triangle.java
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub/Chevron.java
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub/Plus.java
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub/RevArrow.java
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub/Sun.java
+<---- end of javadoc command ---->
+Loading source file D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Arrow.java...
+Loading source file D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java...
+Loading source file D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameScreen.java...
+Loading source file D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Move.java...
+Loading source file D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameGUI.java...
+Loading source file D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameBoard.java...
+Loading source file D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Triangle.java...
+Loading source file D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chevron.java...
+Loading source file D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Plus.java...
+Loading source file D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\RevArrow.java...
+Loading source file D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Sun.java...
+Constructing Javadoc information...
+Standard Doclet version 11.0.2
+Building tree for all the packages and classes...
+Generating D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\doc\Arrow.html...
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Arrow.java:41: warning - @return tag cannot be used in method with void return type.
+Generating D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\doc\Chess.html...
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:31: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:32: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:33: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:34: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:43: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:55: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:56: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:57: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:58: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:69: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:82: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:84: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:85: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:86: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:94: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:95: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:96: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:97: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:109: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:110: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:111: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:112: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:127: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:128: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:129: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:130: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:139: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:140: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:141: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:142: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:151: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:152: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:153: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:154: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:163: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:164: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:165: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:166: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:177: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:178: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:179: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chess.java:180: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+Generating D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\doc\Chess.Color.html...
+Generating D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\doc\Chevron.html...
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\Chevron.java:45: warning - @return tag cannot be used in method with void return type.
+Generating D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\doc\GameBoard.html...
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameBoard.java:43: warning - Tag @author cannot be used in constructor documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameBoard.java:45: warning - Tag @author cannot be used in constructor documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameBoard.java:46: warning - Tag @author cannot be used in constructor documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameBoard.java:47: warning - Tag @author cannot be used in constructor documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameBoard.java:27: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameBoard.java:28: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameBoard.java:29: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameBoard.java:30: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameBoard.java:88: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameBoard.java:100: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameBoard.java:112: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameBoard.java:123: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameBoard.java:135: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameBoard.java:146: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameBoard.java:156: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameBoard.java:167: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameBoard.java:168: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameBoard.java:169: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameBoard.java:170: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameBoard.java:187: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameBoard.java:188: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameBoard.java:189: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameBoard.java:190: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameBoard.java:205: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameBoard.java:206: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameBoard.java:207: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameBoard.java:208: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameBoard.java:312: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameBoard.java:314: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameBoard.java:315: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameBoard.java:316: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+Generating D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\doc\GameGUI.html...
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameGUI.java:27: warning - Tag @author cannot be used in constructor documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameGUI.java:138: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+Generating D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\doc\GameScreen.html...
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameScreen.java:48: warning - Tag @author cannot be used in constructor documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameScreen.java:49: warning - Tag @author cannot be used in constructor documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameScreen.java:50: warning - Tag @author cannot be used in constructor documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameScreen.java:51: warning - Tag @author cannot be used in constructor documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameScreen.java:73: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameScreen.java:74: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameScreen.java:75: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameScreen.java:76: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameScreen.java:95: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameScreen.java:97: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameScreen.java:98: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameScreen.java:99: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameScreen.java:146: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameScreen.java:148: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameScreen.java:149: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameScreen.java:150: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameScreen.java:391: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameScreen.java:392: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameScreen.java:393: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameScreen.java:394: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameScreen.java:550: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameScreen.java:551: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\GameScreen.java:552: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, module, package, class/interface.
+Generating D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\doc\Move.html...
+Generating D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\doc\Plus.html...
+Generating D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\doc\RevArrow.html...
+Generating D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\doc\Sun.html...
+Generating D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\doc\Triangle.html...
+Generating D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\doc\package-summary.html...
+Generating D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\doc\package-tree.html...
+Generating D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\doc\constant-values.html...
+Generating D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\doc\serialized-form.html...
+Building index for all the packages and classes...
+Generating D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\doc\overview-tree.html...
+Generating D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\doc\index-all.html...
+Building index for all classes...
+Generating D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\doc\allclasses-index.html...
+Generating D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\doc\allpackages-index.html...
+Building index for all classes...
+Generating D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\doc\allclasses.html...
+Generating D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\doc\allclasses.html...
+Generating D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\doc\index.html...
+Generating D:\Desktop\Main\Uni\Subject\Sem 8\OOAD\Sub\doc\help-doc.html...
+100 warnings
